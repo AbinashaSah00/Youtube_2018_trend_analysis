@@ -1,0 +1,2 @@
+## YouTube Trending Video Analysis
+This project analyzes a dataset of over 40,000 trending YouTube videos collected over 205 days, focusing on insights from the USA and India. Using Python, Pandas, and Matplotlib, we explore key metrics such as views, likes, comments, and title characteristics to understand factors contributing to a video's trending status. The analysis aims to provide valuable insights for content creators and marketers looking to enhance their video popularity on YouTube.
